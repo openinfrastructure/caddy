@@ -4,6 +4,12 @@ Caddy Releases
 This repository hosts custom builds of Caddy from [https://caddyserver.com/].
 See the releases section.
 
+Install `xcaddy`:
+
+```bash
+go install github.com/caddyserver/xcaddy/cmd/xcaddy@latest
+```
+
 Use the build script to build a custom version.
 
 Note the ratelimit extension assumes no moving gc and may throw the following
