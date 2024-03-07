@@ -1,1 +1,1 @@
-a85dc70b3d4a54491201cdb6e71651f597f5ff41  caddy_linux_amd64_custom
+ebfaba9517fa4447b14ab46dd5977e9c9bd50e1d  caddy_linux_amd64_custom
